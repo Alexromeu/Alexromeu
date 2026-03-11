@@ -50,3 +50,4 @@ I maintain a growing list of foundational books that shape how I think about eng
 ---
 
 If you want to discuss systems design, C internals, or frontend architecture, feel free to reach out.
+Email: alexxromeu@gmail.com
