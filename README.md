@@ -18,7 +18,7 @@ I like building things from scratch — from C neural network architectures to c
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 - **C Neural Network Architecture**  
   Reproducible initialization, clean struct design, pointer‑safe layer transitions.
@@ -32,7 +32,7 @@ I like building things from scratch — from C neural network architectures to c
 
 ---
 
-## 📚 Reading & Foundations
+##  Reading & Foundations
 
 I maintain a growing list of foundational books that shape how I think about engineering, systems, and design.  
 (Integrated into the portfolio as a dynamic reading log.)
